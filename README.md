@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Olha</h1>
 <h3 align="center">A frontend developer from Germany</h3>
-<img  align="right" alt="coding" width="600" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
-<p>
+
+
 
 - 📫 How to reach me **olh.mykhalchuk@gmail.com**
 
