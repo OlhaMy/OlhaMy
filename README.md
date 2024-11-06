@@ -3,10 +3,7 @@
 <h3 align="center">A frontend developer from Germany</h3>
 <img  align="right" alt="coding" width="600" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
 <p>
-I am actively pursuing my dream job and committed to achieving it. My ability to communicate clearly and focus on details allows me to collaborate efficiently within a team. Always ready to learn, I’m excited to bring my expertise and enthusiasm to take on complex web development challenges.</p>
 
-
-- 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me **olh.mykhalchuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
